@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-General Info
-Conclusions
-Technologies Used
-Acknowledgements
+- General Info
+- Conclusions
+- Technologies Used
+- Acknowledgements
 
 ## General Information
 - This is a programming assignment part of a course. 
@@ -14,9 +14,10 @@ Acknowledgements
 - Identify the optimal value of alpha for Ridge and Lasso models.
 
 ## Conclusions
-Best Alpha for Ridge: 20
-Best Alpha for Lasso: 0.001
-Ridge model seems to be the best choice out of Linear, Ridge and Lasso
+- Best Alpha for Ridge: 20
+- Best Alpha for Lasso: 0.001
+- Ridge model seems to be the best choice out of Linear, Ridge and Lasso
+
 Based on the Ridge model, top 5 Features which describe the SalePrice are:
 - Overall Quality type "Very Excellent"
 - Neighbourhood type "Old Town"
